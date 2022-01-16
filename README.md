@@ -22,9 +22,10 @@ An alpaca account and API key is required.
 Other than Python 3.7, no installation is necessary, Jupyter Labs runs in a browser, including Chrome.  Launch the file by navigating to the directory of the file through a CLI and then running Jupyter labs, with "jupyter lab".
 
 Create an alpaca account here: [Alpaca Homepage](https://alpaca.markets/)
-Once you have an account use the account information to create and record an Alpaca API key and Secret Key.  Follow instructions to copy these keys into a ".env" file.
+Once you have an account use the account information to create and record an Alpaca API key and Secret Key.  Follow instructions to copy these keys into a ".env" file, which is not included with the repository since it contains sensitive data.
 
-the custom python package MCForecastTools is included with the sheets and is required for many of the monte carlo simulations.
+The custom python package MCForecastTools is included with the sheets and is required for many of the monte carlo simulations.
+
 
 ---
 
