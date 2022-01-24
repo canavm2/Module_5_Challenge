@@ -1,6 +1,6 @@
 # module_5_challenge
 
-The module 4 challenge for fintech course
+The module 5 challenge for fintech course
 
 The Jupyter Lab file follows along as an exercise to analyze risk and reward, following statistics like standard deviation, shapre ratio and beta.
 
